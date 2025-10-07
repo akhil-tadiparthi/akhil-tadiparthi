@@ -9,10 +9,6 @@
 
 **Akhil Tadiparthi** | **AI/ML Engineer** | **Generative AI & Agentic Systems** | **Applied ML**
 
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Akhil Tadiparthi**, an **AI/ML Engineer** dedicated to designing intelligent systems that seamlessly bridge **cutting-edge research** with **real-world applications**. I focus on transforming complex AI concepts into scalable, production-ready solutions that deliver measurable impact.
