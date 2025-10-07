@@ -1,8 +1,6 @@
-# Akhil Tadiparthi - AI/ML Engineer | GitHub: @akhil-tadiparthi
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Akhil+Tadiparthi+-+AI%2FML+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+Systems;Full+Stack+%26+Cloud+Development;Building+Intelligent+and+Autonomous+AI+Systems)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Akhil+Tadiparthi+-+AI%2FML+Engineer;Generative+AI+%7C+LLMs+%7C+Agentic+RAG+Systems;Full+Stack+%26+Cloud+Development;Building+Intelligent+and+Autonomous+AI+Systems)
 
 [![GitHub followers](https://img.shields.io/github/followers/akhil-tadiparthi?style=social)](https://github.com/akhil-tadiparthi)
 [![Profile views](https://komarev.com/ghpvc/?username=akhil-tadiparthi&color=brightgreen)](https://github.com/akhil-tadiparthi)
