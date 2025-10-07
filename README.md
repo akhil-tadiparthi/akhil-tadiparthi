@@ -9,20 +9,21 @@
 
 **Akhil Tadiparthi** | **AI/ML Engineer** | **Generative AI & Agentic Systems** | **Applied ML**
 
+</div>
+
 ## 👨‍💻 About Me
 
 Hi, I'm **Akhil Tadiparthi**, an **AI/ML Engineer** dedicated to designing intelligent systems that seamlessly bridge **cutting-edge research** with **real-world applications**. I focus on transforming complex AI concepts into scalable, production-ready solutions that deliver measurable impact.
 
 I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Infrastructure**—leveraging frameworks like **LangGraph**, **Pydantic AI**, **PyTorch**, **Tensorflow** to create powerful, data-driven solutions.
 
-🎓 **Education:**
+## 🎓 **Education:**
 - **M.S. in Computer Science (AI Specialization)** – University of Colorado Boulder  
 - **B.A. in Computer Science** – University of Colorado Boulder  
 
----
+
 
 ## 🔥 Core Expertise
-
 - 🤖 **Agentic AI & RAG Systems** – LangChain, LangGraph, Pydantic AI, ChromaDB, MilvusDB  
 - 🧠 **Deep Learning (NLP and Computer Vision)** – PyTorch, TensorFlow, Scikit-learn  
 - 📚 **LLM Fine-Tuning & Integration** – PEFT, QLoRA, LLM Tool/Function Calling  
@@ -33,7 +34,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 ---
 
 ## 💻 Technical Skills
-
 ### 🧩 Programming Languages & Frameworks
 - **Python**, **TensorFlow**, **Scikit-learn**, **PyTorch**, **NumPy**, **Pandas**  
 - **LangChain**, **LangGraph**, **Pydantic AI**, **Django**, **FastAPI**, **React**, **JavaScript**  
@@ -53,7 +53,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 
 </div>
 
----
 
 ### 🧰 Tools & Cloud Infrastructure
 - **Docker**, **Kubernetes**, **AWS Cloud** (EC2, S3, API Gateway, Lambda, CloudFormation, Athena, Glue)  
@@ -71,7 +70,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 
 </div>
 
----
 
 ### 🏅 Certifications
 - 🥇 **AWS Certified Developer – Associate**  
@@ -97,7 +95,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - 🚀 **Developed a no-code GenAI Framework** enabling business users to build domain-specific chatbots and RAG agents — resulting in a **97% reduction in build time (weeks → minutes)** and **$3.85M annual cost savings** across enterprise workflows.  
 - 🧩 **Architected an A2A (Agent-to-Agent) workflow** using **LangGraph**, integrating **NL-to-SQL** for structured data retrieval from **Snowflake** and **PostgreSQL**, and **MilvusDB** for semantic search — achieving **92% query accuracy** with **LLM integration via IBM Watson**.  
 
----
 
 ### 💻 **Software Development Intern — Rule4**
 *Sep 2024 – May 2025*  
@@ -108,7 +105,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - ⚡ Boosted performance by **60%** via optimized **MariaDB queries** and **Django REST architecture**, reducing average invoice retrieval latency from **1.8s → 0.7s**.  
 - 🐳 Increased scalability and deployment efficiency through **microservices architecture in Docker**, reducing deployment overhead by **60%**.
 
----
 
 ### ☁️ **Software Engineer — Two Tigers Productions**
 *Dec 2024 – Feb 2025*  
@@ -120,7 +116,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - 🧱 Deployed fully automated infrastructure via **AWS CloudFormation**, ensuring **100% environment reproducibility** and zero manual configuration drift.  
 - ⚙️ Reduced release cycles by **40%** with a **GitHub Actions CI/CD pipeline**, integrating automated testing and multi-environment deployment triggers.
 
----
 
 ### 🔬 **Graduate Student Researcher — University of Colorado Boulder**
 *Jul 2024 – Oct 2024*  
@@ -130,8 +125,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - 🧩 Designed and deployed a **two-stage object detection pipeline** using **YOLOv5**, reaching **0.91 precision** and **0.77 recall** on real-world retail datasets.  
 - 📈 Led research on **2D odometry and dead reckoning** for social navigation in crowded environments, integrating multi-sensor fusion for accurate trajectory estimation.  
 - 🧪 Published internal benchmarks demonstrating **30% improvement** in obstacle detection stability and smoother real-time path adjustments.
-
----
 
 ---
 
@@ -146,7 +139,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - 🔗 Exposed both **GraphRAG** and **A2A API workflows** as reusable MCP tools, allowing agents to **autonomously coordinate multi-source knowledge retrieval** with live data grounding.  
 - 📈 Improved contextual query precision by **48%** and reduced LLM hallucinations by **33%**, validated on structured + unstructured document retrieval tasks.
 
----
 
 ### 🧠 **VR-Integrated 3D Brain Tumor Segmentation (HackCU Hackathon – 2nd Place Winner)**
 **Technologies:** PyTorch, NumPy, Open3D, Unity
@@ -156,7 +148,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - 🧠 Integrated segmented 3D models into **Unity VR** with **hand-tracking controls** on **Meta Quest 2**, enabling immersive exploration of brain anatomy and pathology.  
 - 🚀 Delivered a fully interactive AR/VR visualization pipeline — from **MRI preprocessing → segmentation → 3D rendering → real-time VR interaction**.  
 
----
 
 ### 👄 **Enhanced Lip Reading using Lip Landmark Coordinates**
 **Technologies:** PyTorch, OpenCV, Dlib, 3D CNNs, LSTMs  
@@ -165,7 +156,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - 🧠 Achieved **state-of-the-art performance** with **0.6% CER** and **1.7% WER**, reducing errors by **91% (CER)** and **87% (WER)** compared to standard LipNet baselines.  
 - 🎯 Enhanced visual-to-speech understanding accuracy under variable lighting, speaker style, and occlusion conditions, demonstrating strong robustness for real-world applications.  
 
----
 
 ### 👥 **Simultaneous Multi-Face Recognition in Real-Time Video Streams**
 **Technologies:** TensorFlow, OpenFace, OpenCV, Custom CNN Architecture  
@@ -175,7 +165,6 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 - ⚡ Optimized for **real-time inference** (~25 FPS) with efficient frame-by-frame embedding matching and confidence-based thresholding for robust facial identification.  
 - 🧠 Deployed modular pipeline supporting multi-user tracking, bounding-box annotation, and live visualization for applied computer vision tasks.
 
----
 
 ---
 
