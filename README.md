@@ -88,83 +88,76 @@ I specialize in **LLMs, Agentic AI, Deep Learning(NLP & CV), and Scalable ML Inf
 
 ## 💼 Professional Experience
 
-### 🧠 **Data Science / AI Intern — EchoStar Corporation(Boost Mobile)**
+### **Data Science / AI Intern – EchoStar Corporation (Boost Mobile)**
 *Jun 2025 – Aug 2025*  
-**Technologies:** LangGraph, Snowflake, PostgreSQL, MilvusDB, IBM Watson, AWS, React, Fast API  
+**Technologies:** LangGraph, Snowflake, PostgreSQL, MilvusDB, IBM Watson, AWS EKS, GitHub Actions  
 
-- 🚀 **Developed a no-code GenAI Framework** enabling business users to build domain-specific chatbots and RAG agents — resulting in a **97% reduction in build time (weeks → minutes)** and **$3.85M annual cost savings** across enterprise workflows.  
-- 🧩 **Architected an A2A (Agent-to-Agent) workflow** using **LangGraph**, integrating **NL-to-SQL** for structured data retrieval from **Snowflake** and **PostgreSQL**, and **MilvusDB** for semantic search — achieving **92% query accuracy** with **LLM integration via IBM Watson**.  
+- Built a **no-code GenAI framework** enabling rapid creation and deployment of RAG agents — reducing build time from weeks to minutes and saving **$3.85M annually**.  
+- Architected an **A2A (Agent-to-Agent)** workflow using **LangGraph**, integrating **NL-to-SQL** for live structured data retrieval and **MilvusDB** for semantic search with **92% accuracy** via IBM Watson.  
+- Automated deployment to **AWS EKS** using **Helm** and **GitHub Actions CI/CD**, enabling scalable and continuous delivery of AI applications.
 
 
-### 💻 **Software Development Intern — Rule4**
+### **Software Development Intern – Rule4, Inc.**
 *Sep 2024 – May 2025*  
-**Technologies:** Django REST, HTML/CSS, MariaDB, Docker
+**Technologies:** Django REST, MariaDB, Docker  
 
-- 📄 **Digitized a legacy invoice review system** into a 4-stage automated pipeline — achieving **99% elimination of paper-based workflows** and saving **500+ human hours annually**.  
-- 🔒 Improved compliance by implementing **Role-Based Access Control (RBAC)**, ensuring **100% data confidentiality** for sensitive audit information.  
-- ⚡ Boosted performance by **60%** via optimized **MariaDB queries** and **Django REST architecture**, reducing average invoice retrieval latency from **1.8s → 0.7s**.  
-- 🐳 Increased scalability and deployment efficiency through **microservices architecture in Docker**, reducing deployment overhead by **60%**.
+- Developed a **4-stage automated invoice system** — achieving **99% elimination** of manual workflows and saving **500+ hours annually**.  
+- Improved compliance with **Role-Based Access Control (RBAC)** ensuring **100% data confidentiality**.  
+- Enhanced performance via **Django REST optimizations** and **query tuning**, reducing retrieval latency by **60%**.  
+- Containerized and deployed using **Docker microservices**, achieving **60% lower deployment overhead**.
 
 
-### ☁️ **Software Engineer — Two Tigers Productions**
+### **Software Engineer – Two Tigers Productions**
 *Dec 2024 – Feb 2025*  
-**Technologies:** AWS Lambda, AWS API Gateway, AWS S3, AWS Athena, AWS Glue, AWS CloudFormation, FastAPI, React   
+**Technologies:** AWS Lambda, API Gateway, S3, Athena, Glue, CloudFormation, FastAPI, React  
 
-- 🌐 **Developed a serverless conference interface** using **AWS + React**, supporting **1,500+ concurrent users** with **99% uptime** and seamless session scaling.  
-- 🔗 Designed **REST endpoints** with **API Gateway** and **Lambda integration** for dynamic S3 data retrieval, achieving **sub-200ms latency** in content delivery.  
-- 🧠 Built **personalized data workflows** using **Athena** and **Glue**, improving content delivery for each user-context.  
-- 🧱 Deployed fully automated infrastructure via **AWS CloudFormation**, ensuring **100% environment reproducibility** and zero manual configuration drift.  
-- ⚙️ Reduced release cycles by **40%** with a **GitHub Actions CI/CD pipeline**, integrating automated testing and multi-environment deployment triggers.
+- Built a **serverless conference platform** handling **1,500+ concurrent users** with **99% uptime**.  
+- Designed **REST endpoints** via **API Gateway + Lambda** for dynamic S3 retrieval with **sub-200ms latency**.  
+- Developed **personalized data pipelines** using **Athena** and **Glue** for contextual content delivery.  
+- Automated infrastructure deployment using **CloudFormation**, achieving **100% environment consistency**.  
+- Shortened release cycles by **40%** using **GitHub Actions CI/CD**.
 
 
-### 🔬 **Graduate Student Researcher — University of Colorado Boulder**
+### **Graduate Student Researcher – University of Colorado Boulder**
 *Jul 2024 – Oct 2024*  
 **Technologies:** ROS, YOLOv5, OpenCV, Position Dead Reckoning  
 
-- 🤖 Contributed to **ShelfHelp**, a smart robotic cane for visually impaired users, achieving **87% navigation accuracy** in pilot testing and **25% reduction in verbal guidance commands** vs. baseline systems.  
-- 🧩 Designed and deployed a **two-stage object detection pipeline** using **YOLOv5**, reaching **0.91 precision** and **0.77 recall** on real-world retail datasets.  
-- 📈 Led research on **2D odometry and dead reckoning** for social navigation in crowded environments, integrating multi-sensor fusion for accurate trajectory estimation.  
-- 🧪 Published internal benchmarks demonstrating **30% improvement** in obstacle detection stability and smoother real-time path adjustments.
+- Co-developed **ShelfHelp**, an assistive robotic cane guiding visually impaired users with **87% navigation accuracy** and **25% fewer voice commands** than baselines.  
+- Created a **two-stage YOLOv5 object detection** pipeline achieving **0.91 precision** and **0.77 recall**.  
+- Researched **2D odometry and dead reckoning** for social navigation in dense, dynamic environments.
 
 ---
 
-## 🎓 Academic & Research Projects
+## Selected Academic Projects
 
-### 🧩 **MCP-Powered Hybrid Agentic Knowledge Retrieval System with Autonomous API Invocation**
+### **MCP-Powered Hybrid Agentic Knowledge Retrieval System**
 **Technologies:** Pydantic AI, LangGraph, GPT-4, Neo4j, Graphiti, PostgreSQL, Pgvector, MCP  
 
-- 🤖 **Built a hybrid Agentic RAG framework** integrating **GraphRAG** and **A2A (Agent-to-Agent)** workflows to enable autonomous REST API invocations via **Model Context Protocol (MCP)** for real-time data access.  
-- ⚙️ Designed and deployed **3 autonomous GPT-4 agents** capable of parsing **OpenAPI 3.1** specs and dynamically constructing REST requests using **function calling** for context-aware API orchestration.  
-- 🧠 Developed a **GraphRAG system** combining **Neo4j Knowledge Graphs** with **PostgreSQL + Pgvector semantic search**, enabling hybrid relational + semantic context retrieval.  
-- 🔗 Exposed both **GraphRAG** and **A2A API workflows** as reusable MCP tools, allowing agents to **autonomously coordinate multi-source knowledge retrieval** with live data grounding.  
-- 📈 Improved contextual query precision by **48%** and reduced LLM hallucinations by **33%**, validated on structured + unstructured document retrieval tasks.
+- Designed a **Hybrid Agentic RAG framework** combining **GraphRAG** and **A2A workflows** for autonomous API invocation via **Model Context Protocol (MCP)**.  
+- Implemented **3 autonomous GPT-4 agents** capable of parsing OpenAPI 3.1 specs and dynamically constructing REST requests for real-time data access.  
+- Built a **GraphRAG engine** integrating **Neo4j** and **Pgvector** for hybrid relational + semantic retrieval, improving contextual query precision by **48%** and reducing hallucinations by **33%**.
 
 
-### 🧠 **VR-Integrated 3D Brain Tumor Segmentation (HackCU Hackathon – 2nd Place Winner)**
-**Technologies:** PyTorch, NumPy, Open3D, Unity
+### **VR-Integrated 3D Brain Tumor Segmentation (HackCU – 2nd Place)**
+**Technologies:** PyTorch, NumPy, Open3D, Unity  
 
-- 🧩 Engineered an optimized **3D UNet** for MRI-based brain tumor segmentation in **PyTorch**, achieving **97% segmentation accuracy** and outperforming baseline CNNs.  
-- 🎮 Applied the **Marching Cubes algorithm** to generate high-resolution 3D meshes of tumor and brain structures from volumetric data.  
-- 🧠 Integrated segmented 3D models into **Unity VR** with **hand-tracking controls** on **Meta Quest 2**, enabling immersive exploration of brain anatomy and pathology.  
-- 🚀 Delivered a fully interactive AR/VR visualization pipeline — from **MRI preprocessing → segmentation → 3D rendering → real-time VR interaction**.  
-
-
-### 👄 **Enhanced Lip Reading using Lip Landmark Coordinates**
-**Technologies:** PyTorch, OpenCV, Dlib, 3D CNNs, LSTMs  
-
-- 🧩 Implemented an advanced **dual-input LipNet architecture** combining **3D CNN + LSTM** for image sequences and a parallel **LSTM branch for lip landmarks**, improving phoneme-level recognition granularity.  
-- 🧠 Achieved **state-of-the-art performance** with **0.6% CER** and **1.7% WER**, reducing errors by **91% (CER)** and **87% (WER)** compared to standard LipNet baselines.  
-- 🎯 Enhanced visual-to-speech understanding accuracy under variable lighting, speaker style, and occlusion conditions, demonstrating strong robustness for real-world applications.  
+- Engineered a **3D UNet** achieving **97% segmentation accuracy** on MRI datasets.  
+- Applied the **Marching Cubes algorithm** to create high-resolution 3D meshes of brain and tumor regions.  
+- Integrated 3D models into **Unity VR** with **hand-tracking controls** for immersive anatomical exploration.
 
 
-### 👥 **Simultaneous Multi-Face Recognition in Real-Time Video Streams**
-**Technologies:** TensorFlow, OpenFace, OpenCV, Custom CNN Architecture  
+### **Enhanced Lip Reading with Lip Landmark Coordinates**
+**Technologies:** PyTorch, OpenCV, Dlib, 3D CNN, LSTM  
 
-- 📸 Developed a **multi-face recognition system** for live video streams, capturing and preprocessing **200+ user images** with augmentation for rotation, lighting, and occlusion variance.  
-- 🧩 Trained a **6-layer custom CNN** using TensorFlow, achieving **75% recognition accuracy** and **20% reduction in false positives** compared to non-augmented models.  
-- ⚡ Optimized for **real-time inference** (~25 FPS) with efficient frame-by-frame embedding matching and confidence-based thresholding for robust facial identification.  
-- 🧠 Deployed modular pipeline supporting multi-user tracking, bounding-box annotation, and live visualization for applied computer vision tasks.
+- Developed a **dual-input LipNet architecture** fusing 3D CNN + LSTM for frame sequences and landmark-based features.  
+- Achieved **0.6% CER** and **1.7% WER**, improving baseline accuracy by over **90%** on lip-reading benchmarks.
 
+
+### **Simultaneous Multi-Face Recognition in Real-Time**
+**Technologies:** TensorFlow, OpenFace, OpenCV  
+
+- Built a **real-time multi-face recognition system** using a **custom 6-layer CNN** trained on augmented datasets.  
+- Achieved **75% recognition accuracy** and **20% fewer false positives** versus non-augmented models.
 
 ---
 
